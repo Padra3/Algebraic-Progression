@@ -66,6 +66,7 @@
   "Hmm yes, the points here are made out of points",
   "The secret to making points is preons, so maybe that's why the post-50x wall is slow. It's because of Nanofield!",
   "Did you just say that Antimatter Dimensions has better than Algebraic Progression? Are you seriously?!?!?! Algebraic Progression are much so better than Antimatter Dimensions. You be must taking drugs or something. go commit toaster bath"
+  "Breaking news! The Mongols Invaded China!"
    ];
 
 function showNews() {

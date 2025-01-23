@@ -63,6 +63,7 @@ game.ret3 = 0; // detection if ret 3 is completed
 game.ret4 = 0; // detection if ret 4 is completed
 game.ret5 = 0; // detection if ret 5 is completed
 game.ret6 = 0; // detection if ret -1 is completed
+game.ret7 = 0; // detection if ret -2 is completed
 
 let message = 0;
 const $ = id => document.getElementById(id)
